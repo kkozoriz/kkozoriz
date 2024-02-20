@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Konstantin, and i'm a Java Developer
+- 👋 Hi, My name is Konstantin, and i'm a Rust/Java Developer
 - 👀 I'm interested in reading books and continual development
 - 🌱 I am currently learning Java, Spring, Hibernate, SQL, Docker and more
 - 🏊‍♂️ I'm also a Master Swimming Candidate 
