@@ -1,8 +1,8 @@
 - 👋 Hi, My name is Konstantin, and i'm a Rust/Java Developer
 - Rust Stack:
-* 📌 Diesel
-* 📌 Actix
-* 📌 Tokio
+# 📌 Diesel
+# 📌 Actix
+# 📌 Tokio
 - Other Stack:
 - 📌 PostgreSQL
 - 📌 Docker
