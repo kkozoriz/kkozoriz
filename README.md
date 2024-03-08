@@ -2,11 +2,12 @@
 - 👋 Hi, My name is Konstantin, and i'm a Rust/Java Developer
 
 # Tech Stack
-- Rust Stack:
+## Rust Stack:
 - 📌 Diesel
 - 📌 Actix
 - 📌 Tokio
-- Other Stack:
+
+## Other Stack:
 - 📌 PostgreSQL
 - 📌 Docker
 - 📌 MySQL
