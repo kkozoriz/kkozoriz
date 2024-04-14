@@ -1,5 +1,5 @@
 # About me
-- 👋 Hi, My name is Konstantin, and i'm a Rust/Java Developer
+- 👋 Hi, My name is Konstantin, and i'm a Rust Developer
 
 # Tech Stack
 ## Rust Stack:
