@@ -6,11 +6,14 @@
 - 📌 Diesel
 - 📌 Actix
 - 📌 Tokio
+- 📌 solana-sdk
+- 📌 solana-program
 
 ## Other Stack:
 - 📌 PostgreSQL
 - 📌 Docker
 - 📌 MySQL
+- 📌 Redis
 
 # Non-tech info
 - 👀 I'm interested in reading books and continual development
