@@ -16,7 +16,6 @@
 - 📌 Redis
 
 # Non-tech info
-- 👀 I'm interested in reading books and continual development
 - 🏊‍♂️ I'm also a Master Swimming Candidate
 
 # Contacts
