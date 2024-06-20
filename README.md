@@ -4,16 +4,13 @@
 # Tech Stack
 ## Rust Stack:
 - 📌 Diesel
-- 📌 Actix
+- 📌 Axum
 - 📌 Tokio
 - 📌 solana-sdk
 - 📌 solana-program
 
 ## Other Stack:
 - 📌 PostgreSQL
-- 📌 Docker
-- 📌 MySQL
-- 📌 Redis
 
 # Non-tech info
 - 🏊‍♂️ I'm also a Master Swimming Candidate
