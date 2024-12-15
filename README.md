@@ -2,24 +2,6 @@
 
 👋 Hi, My name is Konstantin, and i'm a Rust Developer
 
-# Tech Stack
-
-## Rust Stack:
-
-- 📌 Diesel
-- 📌 Axum
-- 📌 Tokio
-- 📌 solana-sdk
-- 📌 solana-program
-
-## Other Stack:
-
-- 📌 PostgreSQL
-
-# Non-tech info
-
-- 🏊‍♂️ I'm also a Master Swimming Candidate
-
 # Contacts
 
 - 📫 How to reach me:
