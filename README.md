@@ -7,5 +7,3 @@
 - 📫 How to reach me:
 - Telegram: [@EnableAsync](https://t.me/EnableAsync)
 - Email: kkozoriz7@yandex.ru
-
-- My account on [LeetCode](https://leetcode.com/Slivmen/)
